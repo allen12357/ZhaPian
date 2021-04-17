@@ -1,5 +1,5 @@
 # AntiZhaPian
-假的国家反诈中心
+
 
 # 安装
 下载app-release.apk安装即可。    
