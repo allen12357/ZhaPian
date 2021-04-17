@@ -1,6 +1,3 @@
-# AntiZhaPian
-
-
 # 安装
 下载app-release.apk安装即可。    
 # 特性  
